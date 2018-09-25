@@ -12,7 +12,7 @@ Full disclosure I am not a penetration tester and  I failed my OSCP exam twice b
 # Course Overview
 
 ## Lab Time
-After years of wanting to do OSCP I got lucky and my employer paid for the full 90 days lab time. This allowed me to put alot of time into the lab network and pwn all but 5 boxes. I was putting in 4-5 hours a day and a bit more at the weekend but because the labs are so fun it didn't really feel like work. That’s not to say it was easy at all but the effort I was putting in was being rewarded every time I got mself another root flag. 
+After years of wanting to do OSCP I got lucky and my employer paid for the full 90 days lab time. This allowed me to put alot of time into the lab network and own all but 5 boxes. I was putting in 4-5 hours a day and a bit more at the weekend but because the labs are so fun it didn't really feel like work. That’s not to say it was easy at all but the effort I was putting in was being rewarded every time I got mself another root flag. 
 
 After hearing about the Offensive Security labs for the last few years I got a bit too excited and as soon as I got my VPN access and jumped straight into the lab network without reading any of the documentation. I figured I had done a few CTF's\Vulnhub images in the past so I was probably ready for the labs, I was wrong.  After a week I had a few of the really easy boxes but found myself getting stuck alot and with no real idea of what to do next. So I stepped back and decided to take a more methodical approach which started with reading the material and trying the techniques in the lab network. 
 
@@ -30,13 +30,13 @@ The Try harder mantra is something your are going to hear a lot. There are going
 The act of self discovery and figuring out those steps yourself is a big boost, after smashing the keyboard for 3 days and then finally finding that missing links. It makes grabbing those flags just a little sweeter. 
 
 ## Exam Attempts 1, 2 & 3
-The exam is tough, it requires you to score a minimum of 70 points from 5 machines within 24 hours and then submit a formal penetration test report in the following 24 hours.
+The exam is tough, it requires you to score a minimum of 70 points within 24 hours and then submit a formal penetration test report in the following 24 hours.
 
-I started each exam as early in the day as I could (normally around 9am). I thought this would give me the best shot of staying alive if I had to use the full 24 hours. For each of the 3 exam attempters I started by getting the buffer overflow host out of the way first. This box is  25 points on the board and really isn't too dissimilar from what is covered in the lab material.
+I tried to start each exam as early in the day as I could (normally around 9am-11am). I thought this would give me the best shot of staying alive if I had to use the full 24 hours. 
 
 While working on one machine I was scanning another,  I found that scanning the machines took alot longer than it did in the lab network so be prepared to switch up your scans for quicker ones. 
 
-In my first exam I owned two boxes and had user access on another two, this gave me 57.5 points. I  knew exactly what I needed to do to get my last 12.5 from a privilege escalation but it was 3:30 am and I hadn't taken a break longer than 5 minutes all day. 
+In my first exam I worked for 10 hours owned several boxes and got 57.5 points. I  knew exactly what I needed to do to get my last 12.5 from a privilege escalation but it was late and and I hadn't taken a break longer than 5 minutes all day. 
 
 I was completely burnt out and after banging my head against the same unstable TTY shell wall for a while longer I decided to jack it in and try again in the morning. Sadly even in the morning I still couldn't get a stable enough shell to let me finish the privilege escalation. 
 
